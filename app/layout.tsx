@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Leo Agha Khusayra|Portofolio",
+  title: "Leo Agha Khusayra | Portofolio",
   description: "Computer Engineering Student | Full-Stack Web Development, IoT, and Hardware Engineering.",
 };
 
