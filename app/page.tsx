@@ -61,7 +61,7 @@ export default function Home() {
     {
       title: "Goals",
       desc: "Aplikasi chat box menggunakan API football yang menampilkan pertandingan bola secara live dan menampilkan klasemen dari pertandingan sepak bola .",
-      tags: ["API Integration", "Javascript", "Golang","Gemini API"],
+      tags: ["API Integration", "Javascript", "Golang","Football API"],
       style: "md:col-span-1",
       githubLink: "https://github.com/Agha-0708/Goals.git",
     },
