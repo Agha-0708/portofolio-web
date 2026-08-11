@@ -49,7 +49,7 @@ export default function Home() {
       title: "Weather Status",
       desc: "Aplikasi pemantauan kondisi cuaca secara real-time melalui integrasi API eksternal dan penyajian data cuaca yang dinamis.",
       tags: ["API Integration", "React.js"],
-      style: "md:col-span-1",
+      style: "md:col-span-2",
     },
       {
       title: "AI chat",
