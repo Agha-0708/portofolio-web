@@ -58,6 +58,13 @@ export default function Home() {
       style: "md:col-span-2",
       githubLink: "https://github.com/Agha-0708/AI-CHAT.git",
     },
+    {
+      title: "Goals",
+      desc: "Aplikasi chat box menggunakan API football yang menampilkan pertandingan bola secara live dan menampilkan klasemen dari pertandingan sepak bola .",
+      tags: ["API Integration", "Javascript", "Golang","Gemini API"],
+      style: "md:col-span-1",
+      githubLink: "https://github.com/Agha-0708/Goals.git",
+    },
   ];
 
   return (
