@@ -51,6 +51,13 @@ export default function Home() {
       tags: ["API Integration", "React.js"],
       style: "md:col-span-1",
     },
+      {
+      title: "AI chat",
+      desc: "Aplikasi chat box menggunakan API Gemini.",
+      tags: ["API Integration", "Javascript", "Golang","Gemini API"],
+      style: "md:col-span-1",
+      githubLink: "https://github.com/Agha-0708/AI-CHAT.git",
+    },
   ];
 
   return (
